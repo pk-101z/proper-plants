@@ -1,0 +1,21 @@
+main {
+    display: inline-flex;
+}
+
+.plantItem {
+    list-style: none;
+    display: inline flex;
+    flex-direction: column;
+    height: 80px;
+    padding: 10px;
+}
+
+.plantSide {
+    height: 100%;
+    width: 50%;
+}
+
+.myCart {
+    width: 100%;
+}
+
